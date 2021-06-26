@@ -1,0 +1,16 @@
+{
+  "name": "wenpai-org/wpfalv-generator",
+  "authors": [
+    {
+      "name": "WenPai.org",
+      "email": "support@feibisi.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "classmap": [
+      "src/",
+      "framework/"
+    ]
+  }
+}
